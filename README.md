@@ -23,7 +23,7 @@ Remember, you can save the webapp to your local device as well!
 
 ## **Screenshots**
 
-![The Frugal Traveler App](../public/assets/frugal-traveler.png)
+![The Frugal Traveler App](./public/assets/frugal-traveler.png)
 
 ## **Testing**
 
